@@ -34,3 +34,4 @@ function controloParolePalindroma(controlo) {
   return controloParola;
 }
 
+// sono impazito e lo vogliio scrivere "var i = controlo.length"=OK ...LO AVEVO SCRITTO  "var i = controlo.lengHT" CI HO MESSO 3 ORE A CAPIRE XCHE NON ANDAVA BENE IL RISULTATO IN CONSOLE
